@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/aequbal/reactApp/static/css/main.1e222226.chunk.css",
+    "main.js": "/aequbal/reactApp/static/js/main.2925a241.chunk.js",
+    "main.js.map": "/aequbal/reactApp/static/js/main.2925a241.chunk.js.map",
+    "runtime-main.js": "/aequbal/reactApp/static/js/runtime-main.2bab5d0e.js",
+    "runtime-main.js.map": "/aequbal/reactApp/static/js/runtime-main.2bab5d0e.js.map",
+    "static/js/2.f2c84f70.chunk.js": "/aequbal/reactApp/static/js/2.f2c84f70.chunk.js",
+    "static/js/2.f2c84f70.chunk.js.map": "/aequbal/reactApp/static/js/2.f2c84f70.chunk.js.map",
+    "index.html": "/aequbal/reactApp/index.html",
+    "static/css/main.1e222226.chunk.css.map": "/aequbal/reactApp/static/css/main.1e222226.chunk.css.map",
+    "static/js/2.f2c84f70.chunk.js.LICENSE.txt": "/aequbal/reactApp/static/js/2.f2c84f70.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2bab5d0e.js",
+    "static/js/2.f2c84f70.chunk.js",
+    "static/css/main.1e222226.chunk.css",
+    "static/js/main.2925a241.chunk.js"
+  ]
+}
